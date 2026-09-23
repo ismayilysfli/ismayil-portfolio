@@ -7,8 +7,7 @@ export const site = {
   graduation: "June 2027",
   github: "https://github.com/ismayilysfli",
   linkedin: "https://www.linkedin.com/in/ismayilyusifli/",
-  // Replace the placeholder file with public/resume.pdf, then change this to /resume.pdf.
-  resumeUrl: "/resume-placeholder.txt",
+  resumeUrl: "/resume.pdf",
   email: "", // Add an email address here later to show it in the Contact section.
 } as const;
 

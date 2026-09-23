@@ -1,1 +1,0 @@
-Replace this file with your resume PDF at public/resume.pdf, then update resumeUrl in src/data/site.ts.
