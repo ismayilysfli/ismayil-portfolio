@@ -1,6 +1,16 @@
-# Ismayil Yusifli — Portfolio
+# Ismayil Yusifli — AI/ML Portfolio
 
-A static, responsive AI/ML engineering portfolio built with Next.js, TypeScript, and Tailwind CSS. It exports to plain static files and is ready to deploy on Vercel.
+Personal portfolio showcasing my work across machine learning, computer vision, applied AI, LLM systems, and model deployment.
+
+## Portfolio Highlights
+
+- Guardian-X / AZira — computer vision pest recognition system using ~18,000 images across 15 classes, with PyTorch, FastViT, ONNX, and TensorFlow Lite deployment work.
+- FlyRank — ML ranking experiments on ~30,000 records, improving Precision@50 from 0.24 to 0.74.
+- CourseFlow — LLM-powered coursework planning system combining document understanding with deterministic scheduling.
+
+## Tech Stack
+
+Next.js · TypeScript · Tailwind CSS
 
 ## Run locally
 
@@ -72,3 +82,9 @@ src/
   data/         Editable portfolio content
 public/         Resume and other static files
 ```
+
+## Contact
+
+GitHub: https://github.com/ismayilysfli
+
+LinkedIn: https://www.linkedin.com/in/ismayilyusifli/
